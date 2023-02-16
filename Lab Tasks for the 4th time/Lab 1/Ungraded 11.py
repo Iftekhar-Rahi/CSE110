@@ -1,2 +1,2 @@
 word=input()
-print(word[0])
+word([w[0]])
