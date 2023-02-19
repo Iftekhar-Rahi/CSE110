@@ -5,7 +5,12 @@
 # # print(a)
 # a.extend([5, 4])
 # print(a)
-a=["10","100","1000","10000","100000"]
-b=[int(i) for i in a]
+# a=["10","100","1000","10000","100000"]
+# b=[int(i) for i in a]
+# print(b)
+# print(a)
+a=5,6,7
+b,c,d=a
 print(b)
-print(a)
+print(c)
+print(d)
