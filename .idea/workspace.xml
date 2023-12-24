@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ece2dd-5a27-4d4f-aabf-f3d03be4cfcc" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CSE110.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CSE110-Programming-Language-1-Fall-2022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 3/Task 12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 3/Task 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 3/Task 14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 3/Task 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 3/Task 10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 3/Task 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 3/Task 11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/New folder (2)/Programming/Academic/CSE110-Fall-22&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/New folder (2)/Programming/Academic/CSE110-Programming-Language-1-Fall-2022",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\New folder (2)\Programming\Academic\CSE110-Fall-22\Lab Answer\Brushing-up CSE110 in after tarc vacation (22.12.2023)\Assignment 7" />
@@ -60,7 +66,7 @@
       <recent name="D:\Programming\CSE110\4. 16 February, 2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task 2">
+  <component name="RunManager">
     <configuration name="Task 11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSE110" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668605842211</updated>
-    </task>
-    <task id="LOCAL-00009" summary="commit 1">
-      <created>1676550417306</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1676550417306</updated>
     </task>
     <task id="LOCAL-00010" summary="commit 1">
       <created>1676550712238</created>
@@ -528,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703411187284</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Commit">
+      <created>1703415689142</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1703415689142</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
