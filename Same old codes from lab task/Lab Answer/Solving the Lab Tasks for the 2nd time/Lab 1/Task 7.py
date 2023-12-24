@@ -1,6 +1,0 @@
-a=int(input("Enter the value of A: "))
-b=int(input("Enter the value of B: "))
-c=int(input("Enter the value of C: "))
-d=float(input("Enter the value of D: "))
-ans=(a**c)+b*a-(d/3)
-print(int(ans))
