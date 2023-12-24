@@ -1,6 +1,0 @@
-a=int(input())
-b=int(input())
-c=int(input())
-d=float(input())
-result=(a**c)+(b*a)-(d/3)
-print(int(result))

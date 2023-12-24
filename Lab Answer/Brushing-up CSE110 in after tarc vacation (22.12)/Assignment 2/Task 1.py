@@ -1,5 +1,0 @@
-num_1=int(input())
-num_2=int(input())
-print(f"Sum={num_1+num_2}")
-print(f"Product={num_1*num_2}")
-print(f"Difference={num_1-num_2}")
