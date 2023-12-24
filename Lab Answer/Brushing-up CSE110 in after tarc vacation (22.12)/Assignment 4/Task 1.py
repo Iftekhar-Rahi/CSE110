@@ -1,8 +1,3 @@
-name="    rAhhhhi    "
-print(name.upper())
-print(name.lower())
-print(len(name))
-name=name.strip()
-print(name)
-print(name.count("h"))
-print(name.startswith("r"))
+word=input()
+for i in range(-1,-len(word)-1,-1):
+    print(word[i],end="")

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ece2dd-5a27-4d4f-aabf-f3d03be4cfcc" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Note for quick brush-up/CSE110 Programming Language 1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,20 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668605842211</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Commit">
-      <created>1676551179296</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1676551179296</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Commit">
-      <created>1676551323317</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1676551323317</updated>
     </task>
     <task id="LOCAL-00015" summary="Commit">
       <created>1676551355507</created>
@@ -528,7 +518,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703429299201</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Commit">
+      <created>1703429328124</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1703429328124</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Commit">
+      <created>1703429334942</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1703429334942</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
