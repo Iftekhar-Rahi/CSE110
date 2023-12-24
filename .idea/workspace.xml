@@ -2,11 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ece2dd-5a27-4d4f-aabf-f3d03be4cfcc" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Answer/Brushing-up CSE110 in after tarc vacation (22.12)/Assignment 4/Task 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 1/1.Data Types, Variables, and Input.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 2/2.Branching.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 3/3.Loops.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 4/4. String.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 5/5. List.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 6/6.Dictionary and Tuple.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 7/7. Function.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CSE110-Programming-Language-1-Fall-2022.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 1/.idea/Lab Assignment 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 2/.idea/Lab Assignment 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 3/.idea/Lab Assignment 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 4/.idea/Lab Assignment 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Answer/Solving the Lab Tasks for the 1st time/Lab Assignment 4/.idea/modules.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,13 +219,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668605842211</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Commit">
-      <created>1676551355507</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1676551355507</updated>
     </task>
     <task id="LOCAL-00016" summary="Commit">
       <created>1676551709601</created>
@@ -532,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703429334942</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Commit">
+      <created>1703439173945</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1703439173945</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
